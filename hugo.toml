@@ -1,6 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'MoveUp | My New Hugo Site'
 theme = "PaperMod"
 
-# "PaperMod"
