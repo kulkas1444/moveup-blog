@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on MoveUp | My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on MoveUp | My New Hugo Site</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jun 2025 09:55:09 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mari Mulai Instal Hugo di Laptop</title>
+      <link>http://localhost:1313/posts/mari-mulai/</link>
+      <pubDate>Sat, 28 Jun 2025 09:55:09 +0700</pubDate>
+      <guid>http://localhost:1313/posts/mari-mulai/</guid>
+      <description>&lt;h2 id=&#34;buat-folder-spesifik&#34;&gt;Buat Folder Spesifik&lt;/h2&gt;
+&lt;p&gt;Aku membuat folder pada direktori ini:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;/home/qw/Project/Hugo &lt;em&gt;(sebelum bikin situs baru bernama &amp;lsquo;moveup&amp;rsquo;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;/home/qw/Project/Hugo/moveup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ketahui-alamat-ip-laptop&#34;&gt;ketahui alamat ip Laptop&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ketik &lt;em&gt;ip a&lt;/em&gt;
+nanti akan muncul alamat ip misanya &lt;em&gt;192.168.1.11&lt;/em&gt; tambahkan port &lt;em&gt;1313&lt;/em&gt; menjadi http://192.168.1.11:1313/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install-app-pendukung&#34;&gt;Install App Pendukung&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;sudo apt install git&lt;/li&gt;
+&lt;li&gt;sudo snap install go &amp;ndash;classic&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;sudo apt install hugo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;buat-situs-baru&#34;&gt;Buat Situs Baru&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;hugo new site moveup&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aku membuat situs baru bernama &lt;strong&gt;moveup&lt;/strong&gt;, ini berarti ada folder baru bernama moveup.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mulai</title>
+      <link>http://localhost:1313/posts/mulai/</link>
+      <pubDate>Sat, 28 Jun 2025 09:02:53 +0700</pubDate>
+      <guid>http://localhost:1313/posts/mulai/</guid>
+      <description>&lt;p&gt;Bismillah&lt;/p&gt;
+&lt;p&gt;Ini adalah post pertama pada blog statis dnegan Hugo melalui laptop Ubuntu 25.04&lt;/p&gt;
+&lt;h2 id=&#34;hal-yang-suda-berhasil-&#34;&gt;Hal yang suda berhasil :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mengenal bahwa hugo mudah diinstal&lt;/li&gt;
+&lt;li&gt;Dia bahkan dapat generate banyak blog dalam satu folder&lt;/li&gt;
+&lt;li&gt;Hugo semudah menggunakan folder atau file pada linux&lt;/li&gt;
+&lt;li&gt;Ini tidak memerlukan database sehingga lebih praktis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hal-yang-masih-gagal-&#34;&gt;Hal yang masih gagal :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Menerapkan tema&lt;/li&gt;
+&lt;li&gt;Tampaknya ada kekeliruan tutorial pada LLM Google&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Semoga Allah mudahkan diriku mempelajarinya.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

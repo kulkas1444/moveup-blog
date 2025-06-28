@@ -1,0 +1,9 @@
+[submodule "themes/starter"]
+	path = themes/starter
+	url = https://github.com/CaiJimmy/hugo-theme-stack-starter.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
